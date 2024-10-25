@@ -5,7 +5,6 @@
     color: var(--primary);
     font-size: var(--fs-16);
     font-size: var(--fs-48);
-
 }
 
 .log-out {
@@ -16,13 +15,10 @@
     color: white;
     border-radius: 23px;
     border: none;
-
-
 }
 
 .gap-56 {
     gap: 56px;
-
 }
 
 .pt-120 {
@@ -36,13 +32,11 @@
 }
 
 .logo {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-48);
     font-weight: 700;
     line-height: 48.6px;
     color: var(--secondary);
-
-
 }
 
 .modal-header {
@@ -54,71 +48,62 @@
 }
 
 .home-feed {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-16);
     color: var(--primary);
-
     font-weight: 400;
     line-height: 24px;
     text-align: left;
-
 }
-.p-10-24{
+
+.p-10-24 {
     padding: 10px 24px;
 }
 
 .bg-shpdow {
     background-color: white;
     box-shadow: 0px 8px 35px 0px #0000000D;
-
 }
 
 .head-text {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-48);
     font-weight: 600;
     line-height: 72px;
-
 }
 
 .heading-text {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-16);
     color: var(--primary);
-
     font-weight: 400;
     line-height: 24px;
-
-
 }
 
 .Event {
     color: var(--null);
 }
 
-.nav-link  {
-    font-family: Poppins;
+.nav-link {
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-16);
     font-weight: 400;
     line-height: 24px;
     color: black;
-
-
 }
-.hover-bold:hover{
+
+.hover-bold:hover {
     -webkit-text-stroke: 1px;
 }
 
 .Following-event {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-16);
     font-weight: 600;
     line-height: 24px;
     color: var(--primary);
 
 }
-
-
 
 .img-box {
     transition: all 300ms linear;
@@ -126,17 +111,10 @@
     max-width: 560px;
     border-radius: 40px;
     cursor: pointer;
-
-
-
-
 }
 
 .img {
-    /* max-width: 356px; */
-    transition: all 300ms linear;
-
-
+    transition: all 300ms linear
 }
 
 .img:hover {
@@ -156,7 +134,6 @@
     box-shadow: 5px 20px 40px 0px #0000001A;
     border: none;
     transition: all 300ms linear;
-
 }
 
 .remove-text {
@@ -164,22 +141,18 @@
 }
 
 .Quis-text {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-12);
     color: var(--primary);
     font-weight: 400;
     line-height: 18px;
-
-
 }
 
 .profile-username {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-24);
     font-weight: 600;
     line-height: 36px;
-
-
 }
 
 .profile-text {
@@ -187,12 +160,13 @@
 }
 
 
-.border-radius-20{
- 
+.border-radius-20 {
+
     border-radius: 20px;
 }
-.border-light-black{
-       border: 1px solid #00000033;
+
+.border-light-black {
+    border: 1px solid #00000033;
 }
 
 .gap-20 {
@@ -204,30 +178,28 @@
 }
 
 .hero-section-box-header {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-16);
     font-weight: 700;
     line-height: 24px;
-
 }
 
 .hero-section-number-box {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-36);
     font-weight: 600;
     text-align: center;
     color: var(--primary);
-
 }
 
-.hero-section-number-box-footer, .more {
-    font-family: Poppins;
+.hero-section-number-box-footer,
+.more {
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-16);
     font-weight: 400;
     line-height: 24px;
     text-align: center;
     color: var(--primary);
-
 }
 
 .text-2 {
@@ -235,7 +207,6 @@
     display: flex;
     justify-content: center;
     text-align: center;
-
 }
 
 .pos-r {
@@ -245,33 +216,30 @@
 .after {
     align-items: center;
     display: flex;
-
 }
-
-
 
 input[type="checkbox"]:checked+label svg {
     fill: red;
-
 }
 
 .cursor {
     cursor: pointer;
 }
-.mb-20
-{
+
+.mb-20 {
     margin-bottom: 20px;
 }
 
 .boxs {
     flex-wrap: wrap;
 }
-.mb-104{
+
+.mb-104 {
     margin-bottom: 104px;
 }
+
 .box-3 {
     background-color: #EAEDFF;
-
     width: 171px;
     border-radius: 20px;
     height: 138px;
@@ -286,7 +254,6 @@ input[type="checkbox"]:checked+label svg {
     width: 166px;
     height: 8px;
     background-color: var(--secondary);
-
 }
 
 .h-199 {
@@ -297,39 +264,28 @@ input[type="checkbox"]:checked+label svg {
     width: 22px;
     height: 8px;
     background-color: var(--null);
-
 }
 
 .New-post {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-48);
     font-weight: 600;
-
-
-
 }
-
-
 
 .p-35 {
     padding: 35px;
-
 }
 
 .con-shadow {
     box-shadow: 0px 8px 35px 0px #0000001A;
-
 }
 
-
-
 .font-text {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-24);
     font-weight: 600;
     line-height: 36px;
     text-align: left;
-
 }
 
 .mt-55 {
@@ -337,29 +293,25 @@ input[type="checkbox"]:checked+label svg {
 }
 
 .profile-evenat-name {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-16);
     font-weight: 400;
     line-height: 24px;
     color: var(--primary);
-
 }
 
 .text-2 {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: var(--fs-16);
     font-weight: 400;
     line-height: 24px;
     color: var(--primary);
     text-align: left;
-
 }
 
 .gap-40 {
     gap: 40px;
 }
-
-
 
 .box-4 {
     max-width: 100px;
@@ -373,14 +325,12 @@ input[type="checkbox"]:checked+label svg {
 .transform {
     bottom: 10%;
     right: 3%;
-
 }
 
 .box-4 {
     cursor: pointer;
     transition: all 300ms linear;
 }
-
 
 .box-4:hover {
     background-color: var(--secondary);
@@ -395,7 +345,6 @@ input[type="checkbox"]:checked+label svg {
     width: 100%;
     height: 0.5px;
     background-color: var(--primary);
-
 }
 
 .mb-118 {
@@ -425,7 +374,8 @@ input[type="checkbox"]:checked+label svg {
 .border {
     border: 2px solid #9CA1BE;
 }
-.border-radius-35{
+
+.border-radius-35 {
     border-radius: 35px;
 }
 
@@ -455,15 +405,11 @@ input[type="checkbox"]:checked+label svg {
 
 .max-width {
     max-width: 800px;
-
 }
 
 .max-width {
     max-width: 800px;
-
 }
-
-
 
 .input-font {
     font-family: var(--poppins);
@@ -471,7 +417,6 @@ input[type="checkbox"]:checked+label svg {
     font-weight: 400;
     line-height: 30px;
     text-align: left;
-
 }
 
 .btn {
@@ -480,7 +425,6 @@ input[type="checkbox"]:checked+label svg {
     width: 191px;
     color: #E6E6E6;
     border-radius: 35px !important;
-
 }
 
 .outline-none {
@@ -495,7 +439,6 @@ input[type="checkbox"]:checked+label svg {
     color: white;
     border-radius: 40px !important;
     border: none !important;
-
 }
 
 .modal-input {
@@ -506,8 +449,6 @@ input[type="checkbox"]:checked+label svg {
     padding: 10px 24px;
     border: 1px solid #9CA1BE;
     outline: none;
-
-
 }
 
 .footer-sec {
@@ -556,7 +497,6 @@ input[type="checkbox"]:checked+label svg {
     font-weight: 400;
     line-height: 21px;
     letter-spacing: 0em;
-
     color: white;
     margin-top: 70px;
     margin-bottom: 20px;
@@ -605,7 +545,6 @@ input[type="checkbox"]:checked+label svg {
     letter-spacing: 0em;
     text-align: center;
     color: white;
-
 }
 
 .show-box:hover {
@@ -615,22 +554,18 @@ input[type="checkbox"]:checked+label svg {
 }
 
 .max-277 {
-
     max-width: 277px;
     width: 100%;
-
     border-radius: 35px !important;
     border: 1px solid #9CA1BE;
     color: #666666;
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 30px;
     text-align: left;
     padding: 10px 24px;
     cursor: pointer;
-
-
 }
 
 .gap-14 {
@@ -645,16 +580,14 @@ input[type="checkbox"]:checked+label svg {
     height: 263px;
     padding: 15px 28px;
     margin-top: 14px;
-
 }
 
 .modal-text {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 30px;
     text-align: left;
-
 }
 
 .max-width {
@@ -671,13 +604,10 @@ input[type="checkbox"]:checked+label svg {
     margin-top: 60px;
 }
 
-
-
-
 .btnn {
     background-color: #E6E6E6;
     color: var(--primary);
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 500;
     line-height: 30px;
@@ -687,9 +617,7 @@ input[type="checkbox"]:checked+label svg {
     border: none;
     text-align: center;
     height: 60px;
-    
 }
-
 
 .footer-text {
     font-family: "Poppins", sans-serif;
@@ -715,8 +643,6 @@ input[type="checkbox"]:checked+label svg {
     width: fit-content;
 }
 
-
-
 .mt-20 {
     margin-top: 20px;
 }
@@ -729,9 +655,10 @@ input[type="checkbox"]:checked+label svg {
     letter-spacing: 0em;
     text-align: left;
     color: #ffffffff;
-}   
+}
+
 .foter-text {
-    font-family: Poppins;
+    font-family: "Poppins", sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
@@ -739,7 +666,7 @@ input[type="checkbox"]:checked+label svg {
     padding-bottom: 25px;
     padding-top: 95px;
 
-    }
+}
 
 .footer-section-show-more-text {
     height: 100%;
@@ -758,9 +685,6 @@ input[type="checkbox"]:checked+label svg {
     row-gap: 24px;
 }
 
-
-
-
 .mb-36 {
     margin-bottom: 36px;
 }
@@ -772,8 +696,6 @@ input[type="checkbox"]:checked+label svg {
 .show-2:hover {
     background-color: red;
 }
-
-
 
 .footer-gallery {
     font-family: "Poppins", sans-serif;
@@ -806,14 +728,11 @@ input[type="checkbox"]:checked+label svg {
     color: blue;
 }
 
-
-
 @media (max-width:576px) {
 
     .logo {
         font-size: 25px !important;
     }
-
 
     .column {
         flex-direction: column;
@@ -836,12 +755,6 @@ input[type="checkbox"]:checked+label svg {
         width: 80px;
     }
 }
-
-
-
-
-
-
 
 @media (min-width: 1400px) {
     .max-1241 {
